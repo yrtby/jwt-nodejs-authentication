@@ -60,7 +60,6 @@ $ npm start  ( or node app.js )
 1. Create `.env` file 
 2. Make settings
 ```
-{
 ENV_DOMAIN = "localhost"
 ENV_PORT = 5000
 
@@ -72,7 +71,6 @@ ENV_SENDER_MAIL_ADDRESS = <sender-mail>             -> example "abcdef123@gmail.
 ENV_SENDER_MAIL_PASSWORD = <sender-mail-password>   -> example "123456789"
 ENV_JWT_TOKEN_KEY = <sercet-token-key>              -> example "qwe123asd123zxc"
 ENV_JWT_EXPIRED_TIME = <token-expired-time>         -> example "2h"
-}
 ```
 
 <br>
