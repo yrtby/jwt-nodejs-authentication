@@ -41,7 +41,7 @@ This application uses `express, mongoose, jsonwebtoken, bcrypt, nodemailer` pack
 
 1.  Clone the project.
 ```sh
-$ git clone https://github.com/
+$ git clone https://github.com/yrtby/jwt-nodejs-authentication.git
 ```
 2. Install dependencies
 ```sh
